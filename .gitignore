@@ -1,0 +1,33 @@
+# Obsidian internal
+.obsidian/
+.obsidian.json
+
+# Session & runtime
+.trash/
+.sessions/
+.DS_Store
+*~
+
+# Cache & temp
+Cache/
+Code Cache/
+GPUCache/
+IndexedDB/
+Local Storage/
+blob_storage/
+
+# Plugin data (local only)
+plugins/
+data.json
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# DO NOT TRACK
+# - sessions
+# - tokens
+# - runtime cache
+# - .db files
+# - browser states
+# - .sqlite files
